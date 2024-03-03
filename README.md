@@ -1,4 +1,5 @@
 Weather Website
+
 • Developed a real-time weather web application to deliver accurate and up-to-date weather information to users.
 
 • Utilized React.js, HTML, CSS, and JavaScript following responsive design principles for seamless compatibility
